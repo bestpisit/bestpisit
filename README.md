@@ -1,5 +1,5 @@
 # 💫 About Me:
-🔭 working on BiFortress the game for education<br>👯 I’m looking to collaborate on Tech company<br>🤝 I’m looking for help with AI technology<br>🌱 I’m currently learning about Game development<br>⚡ Never Stop Learning
+🔭 working on Software System Design (OptimaStruct)<br>👯 I’m looking to collaborate on Tech company<br>🤝 I’m looking for help with AI technology<br>🌱 I’m currently learning about Game development<br>⚡ Never Stop Learning
 
 
 ## 🌐 Socials:
