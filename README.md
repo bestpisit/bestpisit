@@ -1,5 +1,5 @@
 # 💫 About Me:
-🔭 working on Software System Design (OptimaStruct)<br>👯 I’m looking to collaborate on Tech company<br>🤝 I’m looking for help with System Design Best Practice<br>🌱 I’m currently learning about GoLang and Kubernetes<br>⚡ Never Stop Learning
+🔭 working on Platform Engineering (OptimaStruct)<br>👯 I’m looking to collaborate on Cloud Native Tech Company<br>🤝 I’m looking for help with Platform Engineer Best Practice<br>🌱 I’m currently learning about Backstage, GitOps and HCL<br>⚡ Never Stop Learning
 
 
 ## 🌐 Socials:
